@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasanga Wijethunga</h1>
-<h3 align="center">A software engineering undergraduate student at NSBM</h3>
+<h3 align="center">A Software Engineering Undergraduate at NSBM Green University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasangawijethunga&label=Profile%20views&color=0e75b6&style=flat" alt="yasangawijethunga" /> </p>
 
